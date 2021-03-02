@@ -23,8 +23,9 @@ Armando Montaño Gonzalez A00827377
 Alfonso Villarreal Galindo A00828725
 
 ### Instructions
-search_main.cpp: This cpp file allows to search very efficiently any IP address in the dataset and obtain the information from this IP 
-find_attacks.cpp: This cpp file finds (in a very efficient way) the IP address of the botmaster or the attacker
+**search_main.cpp:** This cpp file allows to search very efficiently any IP address in the dataset and obtain the information from this IP 
+
+**find_attacks.cpp:** This cpp file finds (in a very efficient way) the IP address of the botmaster or the attacker
 
 ### Results
 With this program we succesfully discovered the botmaster using efficient data structures and algorithms. Our results are shown here:
